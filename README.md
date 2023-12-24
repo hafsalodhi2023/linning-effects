@@ -1,4 +1,4 @@
-# LINNING EFFECS 🎉
+# LINNING EFFECTS 🎉
 ### Author - Hafsa Khan Lodhi
 Click Here to visit : https://hafsalodhi2023.github.io/linning-effects<br><br>
 ## Clone Repository ✌
