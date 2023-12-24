@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: #111;
+  overflow: hidden;
+}
+
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 90vw;
+}
+
+.lines {
+  position: absolute;
+  height: 100vh;
+  background-color: #f00;
+  mix-blend-mode: color-dodge;
+  width: 50px;
+}
